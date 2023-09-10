@@ -10,21 +10,21 @@ title = "わっしーのプロフィール"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Profile of Kai Washizaki."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
    name = "Kai Washizaki"
    image = "img/logo.png"
-   headline = "機械学習エンジニアの鷲崎です。音声合成や言語処理が好きです。画像/音声/NLP/AWS"
-   bio = "A little bit about you"
+   headline = "機械学習エンジニアの鷲崎です。最近は、音声合成や言語処理が好きです。画像/音声/NLP/匂い x AI"
+   bio = "Kai Washizaki Profile"
    links = [
     { twitter = "https://twitter.com/kwashizzz" },
     { instagram = "https://www.instagram.com/bandle_adjust/" },
     { github = "https://github.com/k-washi" },
-     # { email = "kai.washizaki@gmail.com" },
-     { zenn = "https://zenn.dev/kwashizzz" },
-     { link = "https://www.wantedly.com/id/kai_washizaki" },
+# 　{ email = "kai.washizaki@gmail.com" },
+    { zenn = "https://zenn.dev/kwashizzz" },
+    { link = "https://www.wantedly.com/id/kai_washizaki" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },

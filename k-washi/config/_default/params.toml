@@ -5,14 +5,14 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "slate"
+colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs"]
+mainSections = ["news"]
 # robots = ""
 
 disableImageOptimization = true
@@ -40,7 +40,7 @@ smartTOCHideUnfocusedChildren = true
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "news"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -57,7 +57,7 @@ smartTOCHideUnfocusedChildren = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/k-washi/k-washi.github.io/tree/main/k-washi/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -71,7 +71,7 @@ smartTOCHideUnfocusedChildren = true
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  sharingLinks = [ "twitter", "instaglam", "github", "zenn"]
 
 [list]
   showHero = true
