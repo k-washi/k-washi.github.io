@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Blowfish</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Blowfish</description>
+    <title>Authors on わっしーのプロフィール</title>
+    <link>https://k-washi.github.io/authors/</link>
+    <description>Recent content in Authors on わっしーのプロフィール</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 </copyright>
-    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <copyright>© 2023 Kai Washizaki</copyright>
+    <atom:link href="https://k-washi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
