@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>鷲崎海(Washizaki Kai)のプロフィール on わっしーのプロフィール</title>
-    <link>https://k-washi.github.io/</link>
-    <description>Recent content in 鷲崎海(Washizaki Kai)のプロフィール on わっしーのプロフィール</description>
+    <title>work on わっしーのプロフィール</title>
+    <link>https://k-washi.github.io/series/work/</link>
+    <description>Recent content in work on わっしーのプロフィール</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2023 Kai Washizaki</copyright>
-    <atom:link href="https://k-washi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://k-washi.github.io/series/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No.001 - 自動運転用地図の制作にAIとクラウドを！高い技術力と提案型の開発による伴走</title>
       <link>https://k-washi.github.io/news/work001/</link>
@@ -26,26 +26,6 @@
       <guid>https://k-washi.github.io/news/work002/</guid>
       <description>ヨクト様と開発した、重圧センサーが付いたヨガマットから姿勢を推定するAIに関する記事がでました。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://k-washi.github.io/news/work002/featured.png" />
-    </item>
-    
-    <item>
-      <title>趣味！</title>
-      <link>https://k-washi.github.io/me/favorite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://k-washi.github.io/me/favorite/</guid>
-      <description>趣味について紹介します！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://k-washi.github.io/me/favorite/featured.png" />
-    </item>
-    
-    <item>
-      <title>職歴/スキル</title>
-      <link>https://k-washi.github.io/me/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://k-washi.github.io/me/resume/</guid>
-      <description>職歴やスキルについて紹介します。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://k-washi.github.io/me/resume/featured.png" />
     </item>
     
   </channel>

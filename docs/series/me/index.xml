@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>me on わっしーのプロフィール</title>
+    <link>https://k-washi.github.io/series/me/</link>
+    <description>Recent content in me on わっしーのプロフィール</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2023 Kai Washizaki</copyright>
+    <atom:link href="https://k-washi.github.io/series/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>趣味！</title>
+      <link>https://k-washi.github.io/me/favorite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://k-washi.github.io/me/favorite/</guid>
+      <description>趣味について紹介します！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://k-washi.github.io/me/favorite/featured.png" />
+    </item>
+    
+    <item>
+      <title>職歴/スキル</title>
+      <link>https://k-washi.github.io/me/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://k-washi.github.io/me/resume/</guid>
+      <description>職歴やスキルについて紹介します。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://k-washi.github.io/me/resume/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

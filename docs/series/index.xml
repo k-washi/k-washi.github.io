@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2023 Kai Washizaki</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://k-washi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://k-washi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Documentation</title>
-      <link>https://k-washi.github.io/series/documentation/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <title>me</title>
+      <link>https://k-washi.github.io/series/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://k-washi.github.io/series/documentation/</guid>
+      <guid>https://k-washi.github.io/series/me/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://k-washi.github.io/series/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://k-washi.github.io/series/work/</guid>
       <description></description>
       
     </item>
