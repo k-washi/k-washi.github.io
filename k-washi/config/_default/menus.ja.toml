@@ -10,10 +10,35 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Docs"
+  pageRef = "docs"
+  weight = 10
+
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/kwashizzz"
+  weight = 200
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/bandle_adjust/"
+  weight = 300
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/k-washi"
+  weight = 400
+
+[[main]]
+  identifier = "zenn"
+  pre = "zenn"
+  url = "https://zenn.dev/kwashizzz"
+  weight = 400
 
 #[[main]]
 #  name = "Parent"
