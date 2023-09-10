@@ -1,0 +1,3 @@
+[submodule "k-washi/themes/blowfish"]
+	path = k-washi/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
