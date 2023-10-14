@@ -35,3 +35,5 @@ description: "鷲崎海についてまとめています。"
 {{< github repo="k-washi/nvc-net" >}}
 
 {{<article ref="news/work001" >}}
+
+{{<article ref="news/work002" >}}
